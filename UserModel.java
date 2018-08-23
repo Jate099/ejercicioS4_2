@@ -13,7 +13,7 @@ public class UserModel {
         this.userName = userName;
     }
 
-    public String getName() { 
+    public String getName() {
         return name;
     }
 
